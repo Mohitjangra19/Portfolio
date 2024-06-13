@@ -1,4 +1,4 @@
 # Portfolio
 My first projects
 
-Author - git (Mohit)
+Devloper - Mohit jangra (Mohitjangra19)
